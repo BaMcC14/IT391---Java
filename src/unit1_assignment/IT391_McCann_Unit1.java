@@ -1,6 +1,6 @@
 package unit1_assignment;
 
-public class IT391_McCann_Unit2 {
+public class IT391_McCann_Unit1 {
 	
 	//*********************************************************
 
